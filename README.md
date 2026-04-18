@@ -91,6 +91,7 @@ GROUP BY subscription_status;
 New: 1 purchase
 Returning: 2–10 purchases
 Loyal: >10 purchases
+```
 📊 Key Insights
 Identifies spending patterns across demographics
 Highlights effectiveness of discounts
