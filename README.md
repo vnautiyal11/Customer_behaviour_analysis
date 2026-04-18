@@ -110,8 +110,13 @@ df.to_sql("customer_behavior", engine, if_exists="replace", index=False)
 2. Run SQL Queries
 Use pgAdmin or any SQL client
 Execute queries from the analysis section
+
+
 📈 Future Enhancements
-Integrate Power BI dashboard
-Add machine learning for prediction
-Perform customer segmentation using clustering
-Build recommendation system
+1. Integrate Power BI dashboard
+
+2. Add machine learning for prediction
+
+3. Perform customer segmentation using clustering
+
+4. Build recommendation system
